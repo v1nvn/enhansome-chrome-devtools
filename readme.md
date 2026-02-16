@@ -33,7 +33,7 @@
 
 ### Network Inspection
 
-* [betwixt](https://github.com/kdzwinel/betwixt) ⭐ 4,563 | 🐛 22 | 🌐 JavaScript | 📅 2021-11-23 - System level network proxy, providing inspection via Network panel.
+* [betwixt](https://github.com/kdzwinel/betwixt) ⭐ 4,564 | 🐛 22 | 🌐 JavaScript | 📅 2021-11-23 - System level network proxy, providing inspection via Network panel.
 * [Weer](https://weerdbg.com/) - A HTTP protocol debugger **(closed source)**
 
 ### CPU profile
@@ -67,23 +67,23 @@
 
 ### Developing with the protocol
 
-* [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) ⭐ 4,491 | 🐛 12 | 🌐 JavaScript | 📅 2026-02-09 - Many useful recipes.
+* [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) ⭐ 4,492 | 🐛 12 | 🌐 JavaScript | 📅 2026-02-09 - Many useful recipes.
 * [Chrome Protocol Proxy](https://github.com/wendigo/chrome-protocol-proxy) ⭐ 246 | 🐛 1 | 🌐 Go | 📅 2025-01-31 - Tool for debugging clients using devtools protocol.
 
 ### The big two automation libraries
 
-* [Puppeteer](https://github.com/GoogleChrome/puppeteer/) ⭐ 93,569 | 🐛 289 | 🌐 TypeScript | 📅 2026-02-15 - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) ⭐ 2,541 | 🐛 18 | 📅 2024-07-19.
-* [Playwright](https://github.com/microsoft/playwright) ⭐ 82,629 | 🐛 592 | 🌐 TypeScript | 📅 2026-02-14 - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,367 | 🐛 13 | 📅 2026-01-05.
+* [Puppeteer](https://github.com/GoogleChrome/puppeteer/) ⭐ 93,578 | 🐛 289 | 🌐 TypeScript | 📅 2026-02-15 - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) ⭐ 2,541 | 🐛 18 | 📅 2024-07-19.
+* [Playwright](https://github.com/microsoft/playwright) ⭐ 82,667 | 🐛 595 | 🌐 TypeScript | 📅 2026-02-14 - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,367 | 🐛 13 | 📅 2026-01-05.
 
 ### Libraries for driving the protocol (or a layer above)
 
-* Go: [chromedp](https://github.com/chromedp/chromedp) ⭐ 12,731 | 🐛 170 | 🌐 Go | 📅 2025-10-07 - High-level actions and tasks for driving browsers
-* Go: [Rod](https://github.com/go-rod/rod) ⭐ 6,674 | 🐛 200 | 🌐 Go | 📅 2026-02-14
-* JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) ⭐ 4,491 | 🐛 12 | 🌐 JavaScript | 📅 2026-02-09
+* Go: [chromedp](https://github.com/chromedp/chromedp) ⭐ 12,735 | 🐛 170 | 🌐 Go | 📅 2025-10-07 - High-level actions and tasks for driving browsers
+* Go: [Rod](https://github.com/go-rod/rod) ⭐ 6,676 | 🐛 200 | 🌐 Go | 📅 2026-02-14
+* JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) ⭐ 4,492 | 🐛 12 | 🌐 JavaScript | 📅 2026-02-09
 * Python: [pyppeteer](https://github.com/pyppeteer/pyppeteer) ⭐ 3,937 | 🐛 213 | 🌐 Python | 📅 2024-06-29 - Puppeteer port
-* C#/.NET: [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) ⭐ 3,849 | 🐛 199 | 🌐 C# | 📅 2026-02-14 - Puppeteer port
-* TypeScript/Node.js: [Taiko](https://github.com/getgauge/taiko/) ⭐ 3,663 | 🐛 61 | 🌐 JavaScript | 📅 2026-02-14
-* Ruby: [Ferrum](https://github.com/route/ferrum) ⭐ 1,973 | 🐛 39 | 🌐 Ruby | 📅 2026-02-13 - high-level API to control Chrome in Ruby
+* C#/.NET: [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) ⭐ 3,848 | 🐛 200 | 🌐 C# | 📅 2026-02-15 - Puppeteer port
+* TypeScript/Node.js: [Taiko](https://github.com/getgauge/taiko/) ⭐ 3,663 | 🐛 61 | 🌐 JavaScript | 📅 2026-02-15
+* Ruby: [Ferrum](https://github.com/route/ferrum) ⭐ 1,975 | 🐛 38 | 🌐 Ruby | 📅 2026-02-15 - high-level API to control Chrome in Ruby
 * Ruby: [Cuprite](https://github.com/machinio/cuprite) ⭐ 1,352 | 🐛 50 | 🌐 Ruby | 📅 2025-05-11 - Capybara driver
 * PHP: [PuPHPeteer](https://github.com/rialto-php/puphpeteer) ⚠️ Archived - PHP bridge to node Puppeteer
 * Java: [jvppeteer](https://github.com/fanyong920/jvppeteer) ⭐ 805 | 🐛 9 | 🌐 Java | 📅 2026-02-11  - Headless Chrome For Java
@@ -142,7 +142,7 @@
 
 ### Browsers
 
-* [BrowserBox](https://github.com/BrowserBox/BrowserBox) ⭐ 3,784 | 🐛 41 | 🌐 JavaScript | 📅 2026-02-15 - Embed Chrome in a web page, largely powered by DevTools and supporting multiuser browsing, remote DevTools, audio, and documents like `.docx`, `.pdf`, and more.
+* [BrowserBox](https://github.com/BrowserBox/BrowserBox) ⭐ 3,785 | 🐛 41 | 🌐 JavaScript | 📅 2026-02-15 - Embed Chrome in a web page, largely powered by DevTools and supporting multiuser browsing, remote DevTools, audio, and documents like `.docx`, `.pdf`, and more.
 * [Puppetromium](https://github.com/dosyago/puppetromium) ⭐ 61 | 🐛 1 | 🌐 JavaScript | 📅 2023-07-23 - A proof-of-concept web browser built with Puppeteer, written in Node.js, HTML and CSS, with 0% client-side JavaScript.
 
 ### Web Archivers and Indexers
