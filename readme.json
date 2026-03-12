@@ -110,7 +110,7 @@
             "last_commit": "2026-02-09T09:02:35Z",
             "owner": "cyrus-and",
             "repo": "chrome-remote-interface",
-            "stars": 4503
+            "stars": 4504
           }
         },
         {
@@ -139,10 +139,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-10T13:59:43Z",
+            "last_commit": "2026-03-11T12:26:31Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 93778
+            "stars": 93794
           }
         },
         {
@@ -152,10 +152,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-11T02:11:38Z",
+            "last_commit": "2026-03-12T01:10:22Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 83937
+            "stars": 84021
           }
         }
       ],
@@ -174,7 +174,7 @@
             "last_commit": "2026-02-09T09:02:35Z",
             "owner": "cyrus-and",
             "repo": "chrome-remote-interface",
-            "stars": 4503
+            "stars": 4504
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2026-02-25T22:49:03Z",
             "owner": "getgauge",
             "repo": "taiko",
-            "stars": 3662
+            "stars": 3663
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2025-10-07T20:10:59Z",
             "owner": "chromedp",
             "repo": "chromedp",
-            "stars": 12806
+            "stars": 12809
           }
         },
         {
@@ -361,7 +361,7 @@
             "last_commit": "2026-02-17T04:59:41Z",
             "owner": "go-rod",
             "repo": "rod",
-            "stars": 6777
+            "stars": 6781
           }
         },
         {
@@ -371,7 +371,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-03-10T18:37:59Z",
+            "last_commit": "2026-03-11T21:25:16Z",
             "owner": "hardkoded",
             "repo": "puppeteer-sharp",
             "stars": 3863
@@ -413,7 +413,7 @@
             "last_commit": "2026-02-16T12:34:11Z",
             "owner": "rubycdp",
             "repo": "ferrum",
-            "stars": 1981
+            "stars": 1982
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-03-09T07:54:38Z",
             "owner": "rubycdp",
             "repo": "cuprite",
-            "stars": 1358
+            "stars": 1359
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2024-10-26T03:44:45Z",
             "owner": "facebook",
             "repo": "stetho",
-            "stars": 12709
+            "stars": 12708
           }
         },
         {
@@ -669,7 +669,7 @@
             "last_commit": "2024-09-11T14:49:24Z",
             "owner": "vuejs",
             "repo": "devtools-v6",
-            "stars": 24771
+            "stars": 24770
           }
         },
         {
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-11T04:12:26.237Z",
+    "last_updated": "2026-03-12T04:16:32.707Z",
     "original_repository": "ChromeDevTools/awesome-chrome-devtools",
     "source_repository": "v1nvn/enhansome-chrome-devtools",
     "source_repository_description": null,
