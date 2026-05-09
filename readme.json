@@ -196,10 +196,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-07T11:42:37Z",
+            "last_commit": "2026-05-08T22:55:28Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 94267
+            "stars": 94274
           }
         },
         {
@@ -209,10 +209,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-07T23:19:52Z",
+            "last_commit": "2026-05-09T03:02:58Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 88210
+            "stars": 88289
           }
         }
       ],
@@ -288,7 +288,7 @@
             "last_commit": "2024-03-08T17:15:13Z",
             "owner": "atroche",
             "repo": "rust-headless-chrome",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2026-03-23T21:40:20Z",
             "owner": "chromedp",
             "repo": "chromedp",
-            "stars": 13018
+            "stars": 13020
           }
         },
         {
@@ -431,7 +431,7 @@
             "last_commit": "2026-02-17T04:59:41Z",
             "owner": "go-rod",
             "repo": "rod",
-            "stars": 6907
+            "stars": 6910
           }
         },
         {
@@ -441,10 +441,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-08T01:50:10Z",
+            "last_commit": "2026-05-08T15:26:48Z",
             "owner": "hardkoded",
             "repo": "puppeteer-sharp",
-            "stars": 3886
+            "stars": 3887
           }
         },
         {
@@ -493,7 +493,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-04-11T09:43:34Z",
+            "last_commit": "2026-05-08T05:06:55Z",
             "owner": "rubycdp",
             "repo": "cuprite",
             "stars": 1368
@@ -519,7 +519,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-05-06T06:38:05Z",
+            "last_commit": "2026-05-08T06:06:38Z",
             "owner": "joffrey-bion",
             "repo": "chrome-devtools-kotlin",
             "stars": 60
@@ -535,7 +535,7 @@
             "last_commit": "2024-09-16T06:09:07Z",
             "owner": "tatut",
             "repo": "clj-chrome-devtools",
-            "stars": 133
+            "stars": 134
           }
         },
         {
@@ -558,7 +558,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-07T03:01:58Z",
+            "last_commit": "2026-05-09T03:01:58Z",
             "owner": "jakubkulhan",
             "repo": "chrome-devtools-protocol",
             "stars": 183
@@ -677,7 +677,7 @@
             "last_commit": "2026-04-29T11:07:01Z",
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3836
+            "stars": 3837
           }
         },
         {
@@ -734,7 +734,7 @@
             "last_commit": "2024-09-11T14:49:24Z",
             "owner": "vuejs",
             "repo": "devtools-v6",
-            "stars": 24743
+            "stars": 24740
           }
         },
         {
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-08T04:55:08.703Z",
+    "last_updated": "2026-05-09T05:23:50.551Z",
     "original_repository": "ChromeDevTools/awesome-chrome-devtools",
     "source_repository": "v1nvn/enhansome-chrome-devtools",
     "source_repository_description": null,
