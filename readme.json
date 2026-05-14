@@ -112,7 +112,7 @@
             "last_commit": "2022-12-02T15:12:33Z",
             "owner": "microsoft",
             "repo": "vscode-chrome-debug",
-            "stars": 2204
+            "stars": 2203
           }
         },
         {
@@ -196,10 +196,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T16:16:44Z",
+            "last_commit": "2026-05-13T13:04:53Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 94302
+            "stars": 94315
           }
         },
         {
@@ -209,10 +209,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-13T02:43:08Z",
+            "last_commit": "2026-05-14T00:02:18Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 88560
+            "stars": 88643
           }
         }
       ],
@@ -262,7 +262,7 @@
             "last_commit": "2026-05-01T12:39:05Z",
             "owner": "getgauge",
             "repo": "taiko",
-            "stars": 3668
+            "stars": 3667
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2026-03-23T21:40:20Z",
             "owner": "chromedp",
             "repo": "chromedp",
-            "stars": 13034
+            "stars": 13039
           }
         },
         {
@@ -441,7 +441,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-12T14:52:46Z",
+            "last_commit": "2026-05-13T20:07:06Z",
             "owner": "hardkoded",
             "repo": "puppeteer-sharp",
             "stars": 3887
@@ -467,7 +467,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-01T05:13:14Z",
+            "last_commit": "2026-05-13T07:54:25Z",
             "owner": "seclerp",
             "repo": "dotnet-chrome-protocol",
             "stars": 28
@@ -519,7 +519,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-05-11T11:02:38Z",
+            "last_commit": "2026-05-13T08:27:45Z",
             "owner": "joffrey-bion",
             "repo": "chrome-devtools-kotlin",
             "stars": 60
@@ -558,7 +558,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-10T03:01:57Z",
+            "last_commit": "2026-05-14T03:02:04Z",
             "owner": "jakubkulhan",
             "repo": "chrome-devtools-protocol",
             "stars": 183
@@ -598,7 +598,7 @@
             "last_commit": "2024-10-26T03:44:45Z",
             "owner": "facebook",
             "repo": "stetho",
-            "stars": 12676
+            "stars": 12675
           }
         },
         {
@@ -762,7 +762,7 @@
             "last_commit": "2021-09-30T16:30:40Z",
             "owner": "3Dparallax",
             "repo": "insight",
-            "stars": 918
+            "stars": 916
           }
         },
         {
@@ -844,7 +844,7 @@
             "last_commit": "2025-01-30T22:06:01Z",
             "owner": "grafana",
             "repo": "xk6-browser",
-            "stars": 359
+            "stars": 358
           }
         }
       ],
@@ -865,7 +865,7 @@
                 "last_commit": "2017-04-10T23:43:50Z",
                 "owner": "auchenberg",
                 "repo": "devtools-remote",
-                "stars": 701
+                "stars": 700
               }
             }
           ],
@@ -930,7 +930,7 @@
             "last_commit": "2025-07-02T07:34:34Z",
             "owner": "google",
             "repo": "ios-webkit-debug-proxy",
-            "stars": 6161
+            "stars": 6162
           }
         },
         {
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-13T05:51:31.631Z",
+    "last_updated": "2026-05-14T05:50:39.816Z",
     "original_repository": "ChromeDevTools/awesome-chrome-devtools",
     "source_repository": "v1nvn/enhansome-chrome-devtools",
     "source_repository_description": null,
