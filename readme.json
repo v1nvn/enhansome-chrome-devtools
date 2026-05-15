@@ -38,7 +38,7 @@
             "last_commit": "2026-01-21T08:12:09Z",
             "owner": "sparkyrider",
             "repo": "chrome-secret-menus",
-            "stars": 65
+            "stars": 66
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2022-12-02T15:12:33Z",
             "owner": "microsoft",
             "repo": "vscode-chrome-debug",
-            "stars": 2203
+            "stars": 2202
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-05-13T13:04:53Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 94315
+            "stars": 94323
           }
         },
         {
@@ -209,10 +209,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-14T00:02:18Z",
+            "last_commit": "2026-05-15T03:17:34Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 88643
+            "stars": 88728
           }
         }
       ],
@@ -379,7 +379,7 @@
             "last_commit": "2026-03-23T21:40:20Z",
             "owner": "chromedp",
             "repo": "chromedp",
-            "stars": 13039
+            "stars": 13042
           }
         },
         {
@@ -431,7 +431,7 @@
             "last_commit": "2026-02-17T04:59:41Z",
             "owner": "go-rod",
             "repo": "rod",
-            "stars": 6917
+            "stars": 6922
           }
         },
         {
@@ -441,7 +441,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-13T20:07:06Z",
+            "last_commit": "2026-05-14T14:43:18Z",
             "owner": "hardkoded",
             "repo": "puppeteer-sharp",
             "stars": 3887
@@ -762,7 +762,7 @@
             "last_commit": "2021-09-30T16:30:40Z",
             "owner": "3Dparallax",
             "repo": "insight",
-            "stars": 916
+            "stars": 915
           }
         },
         {
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-14T05:50:39.816Z",
+    "last_updated": "2026-05-15T05:57:15.140Z",
     "original_repository": "ChromeDevTools/awesome-chrome-devtools",
     "source_repository": "v1nvn/enhansome-chrome-devtools",
     "source_repository_description": null,
